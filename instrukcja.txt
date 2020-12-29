@@ -1,6 +1,6 @@
 1. Tworzymy na dysku C folder o nazwie fiddinky
-2. Umieszczamy w nim pliki: FiddlerSetup.exe, fiddinky.farx, pink48.png
-3. Instalujemy program: FiddlerSetup.exe
+2. Umieszczamy w nim pliki: fiddinky.farx, pink48.png
+3. Instalujemy program uruchamiając FiddlerSetup.exe
 4. Po pierwszym uruchomieniu wyświetli się okno AppContainer Configuration, klikamy Cancel
 5. W menu wchodzimy w Tools > Options...
 6. Wybieramy kartę HTTPS
@@ -9,7 +9,7 @@
 9. W pole tekstowe wklejamy tekst: static.cdn.ubi.com;ubistatic-a.akamaihd.net
 10. Zatwierdzamy przyciskiem OK.
 11. Teraz w programie wybieramy kartę AutoResponder (z taką zieloną błyskawicą).
-12. Zaznaczamy trzy wszystkie 3 opcje: Enable rules, Accept all CONNECTs, Unmatched requests passthrough.
+12. Zaznaczamy trzy opcje: Enable rules, Accept all CONNECTs, Unmatched requests passthrough.
 13. Klikamy przycisk "Import..." i wybieramy plik fiddinky.farx który mamy w folderze C:\fiddinky\
-14. Kuniec... po nerkę jutro zgłosi się pogotowiew tym czasie możemy się cieczyć grą.
+14. Kuniec... po nerkę jutro zgłosi się pogotowie, a w tym czasie możemy się cieczyć grą z różowymi znajdźkami.
 Ważne! Najpierw uruchamiać Fiddlera, później przeglądarkę i klienta. Po znalezieniu znajdziek najlepiej wyłączyć Fiddlera.
