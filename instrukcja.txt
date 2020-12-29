@@ -1,5 +1,5 @@
 1. Tworzymy na dysku C folder o nazwie fiddinky
-2. Pobieramy i umieszczamy w nim pliki: FiddlerSetup.exe, fiddinky.farx, pink48.png
+2. Umieszczamy w nim pliki: FiddlerSetup.exe, fiddinky.farx, pink48.png
 3. Instalujemy program: FiddlerSetup.exe
 4. Po pierwszym uruchomieniu wyświetli się okno AppContainer Configuration, klikamy Cancel
 5. W menu wchodzimy w Tools > Options...
