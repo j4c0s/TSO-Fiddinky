@@ -8,7 +8,7 @@
 8. Teraz klikamy w link nad polem tekstowym "Skip decryption", zmieni się na "Perform decryption".
 9. W pole tekstowe wklejamy tekst: static.cdn.ubi.com;ubistatic-a.akamaihd.net
 10. Zatwierdzamy przyciskiem OK.
-11. Teraz w programie wybieramy kartę AutoResponder (z taką zieloną błyskawicą).
+11. Teraz w programie wybieramy kartę AutoResponder (z ikonką błyskawicy).
 12. Zaznaczamy trzy opcje: Enable rules, Accept all CONNECTs, Unmatched requests passthrough.
 13. Klikamy przycisk "Import..." i wybieramy plik fiddinky.farx który mamy w folderze C:\fiddinky\
 14. Kuniec... po nerkę jutro zgłosi się pogotowie, a w tym czasie możemy się cieczyć grą z różowymi znajdźkami.
